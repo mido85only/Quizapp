@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="easy_general_knowledge_questions">Easy General Knowledge Questions</string>
+    <string name="_1_which_is_the_country_with_the_biggest_population_in_europe">1. Which is the country with the biggest population in Europe?</string>
+    <string name="england">England</string>
+    <string name="russia">Russia</string>
+    <string name="france">France</string>
+    <string name="_2_how_many_states_make_up_the_united_states_of_america">2. How many states make up the United States of America?</string>
+    <string name="_49_states">49 states</string>
+    <string name="_48_states">48 states</string>
+    <string name="_50_states">50 states</string>
+    <string name="_3_where_is_cairo_located">3.Where is Cairo located?</string>
+    <string name="_4_blandenburg_bremen_and_lower_saxony_are_states_in_which_european_country">4. Blandenburg, Bremen and Lower Saxony are states in which European country?</string>
+    <string name="answer">Answer</string>
+    <string name="europe">Europe</string>
+    <string name="franceCity">France</string>
+    <string name="egypt">Egypt</string>
+    <string name="africa">Africa</string>
+    <string name="_5_calcio_is_the_italian_word_for_which_sport">5.Calcio is the Italian word for which sport?</string>
+    <string name="check_answer">Check answer</string>
+</resources>
